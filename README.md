@@ -42,4 +42,8 @@ This project focuses on uncovering actionable insights from Uber’s NYC pickup 
 
 ---
 
+This project was completed as part of the MIT IDSS / Great Learning Data Science Course to apply skills in:
 
+Exploratory data analysis (EDA)
+Data visualization
+Business-oriented insights from real-world datasets
